@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="file://$PROJECT_DIR$" libraries="{confusion/node_modules}" />
-    <file url="PROJECT" libraries="{confusion/node_modules}" />
+    <file url="PROJECT" libraries="{@types/react, @types/react-dom, @types/react-native, confusion/node_modules}" />
   </component>
 </project>
